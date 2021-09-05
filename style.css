@@ -1,0 +1,29 @@
+#header{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: black;
+}
+.myDiv{
+    background-color: white;
+    border-radius: 20px;
+    width: 100%;
+}
+.div button{
+    margin-top: 30px;
+}
+.div{
+    background-color: chartreuse;
+    height: 780;
+}
+.footer{
+    background-color: white;
+    border-radius: 20px;
+    font-size: 15px;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
